@@ -22,7 +22,7 @@ this is the basic layout which was built first, the bottom row is squeezed for t
 ## ANISE60B 6R
 <span><img src="imgs/anise60b6R.jpg" alt="kbd" style="width:42%;"/>  <img src="imgs/explain6R_0.jpg" alt="exp_6R" style="width:20%;"/> <img src="imgs/explain6R_1.jpg" alt="exp_6R_1" style="width:20%;"/></span>
 
-this is useing the same pcb as anise60b, just cut the PCB in a different way, every PCB designed support this feature. For now, only top rows are split in this way, key B which is sometimes typed by right hand by some user, are not capable to do so due to the lack of time, if you got the need and time, you may do it yourself.
+Using the same pcb as anise60b, just cut the PCB in a different way, every following PCB support this. For now, only top rows are split in this way, key B which is sometimes typed by right hand by some user, are not capable to do so due to the lack of time, if you got the need and time, you may do it yourself.
 
 ## ANISE60BNAV 
 <img src="imgs/anise60bnav.jpg" alt="kbd" style="width:42%;"/>
