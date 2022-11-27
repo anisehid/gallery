@@ -1,7 +1,7 @@
 # gallery
 Gallery of AniseHID devices
 
-NOTICE: due to the rgb light power consumption(~100mA each side), and the current status that rgb has no actual function(zmk has not yet utilize the rgb as indicator or something else), the led is on only for good photo shot.
+NOTICE: due to the RGB LED power consumption(~100mA each side), and the current status that rgb has no actual function(zmk has not yet utilize the rgb as indicator or something else related to keyboard state), the RGB LED is on only for nice photo shot, you may not expect RGB LED can always on.
 
 <span>
 <img src="imgs/usecase_0_huahua.jpg" alt="usecase_0_huahua" style="width:42%;"/>
